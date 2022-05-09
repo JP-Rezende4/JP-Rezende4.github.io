@@ -1,6 +1,7 @@
 body {
   background-color: #1C2541;
   color: white;
+  font-family: Cambria, serif;
 }
 
 a {
@@ -11,10 +12,10 @@ h2 {
   font-family: Helvetica, sans-serif;
 }
 
-p {
-  font-family: Cambria, serif;
-}
-
 .italic {
   font-style: italic;
+}
+
+.bigger-font {
+  font-size: 25px;
 }
