@@ -1,3 +1,12 @@
+body {
+  background-color: #1C2541;
+  color: white;
+}
+
+a {
+  color: #6FFFE9;
+}
+
 h2 {
   font-family: Helvetica, sans-serif;
 }
