@@ -14,3 +14,7 @@ h2 {
 p {
   font-family: Cambria, serif;
 }
+
+.italic {
+  font-style: italic;
+}
