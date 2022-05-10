@@ -14,11 +14,22 @@ h2 {
 }
 
 #index {
+  margin-left: 6.5%;
   list-style: none;
+  line-height: 25px;
 }
 
 #name {
   text-align: center;
+}
+
+#joao {
+  padding: 10px;
+  background-color: #3A506B;
+}
+
+#footer {
+  margin-left: 10%;
 }
 
 .italic {
@@ -36,4 +47,13 @@ h2 {
   vertical-align: middle;
   text-align: justify;
   font-size: 1.2em;
+}
+
+.main-skills {
+  margin-left: 10%;
+}
+
+.other-skills {
+  margin-left: 10%;
+  font-size: 1.1em;
 }
