@@ -17,6 +17,10 @@ h2 {
   list-style: none;
 }
 
+#name {
+  text-align: center;
+}
+
 .italic {
   font-style: italic;
 }
@@ -31,4 +35,5 @@ h2 {
   display: inline-block;
   vertical-align: middle;
   text-align: justify;
+  font-size: 1.2em;
 }
