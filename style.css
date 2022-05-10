@@ -24,3 +24,11 @@ h2 {
 .bigger-font {
   font-size: 25px;
 }
+
+.description-profile {
+  width: 20%;
+  margin-left: 19%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: justify;
+}
