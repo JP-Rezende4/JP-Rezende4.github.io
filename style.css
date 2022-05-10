@@ -61,3 +61,7 @@ h2 {
 ul.skills li:nth-of-type(odd) {
   font-style: italic;
 }
+
+a:hover {
+  text-decoration: underline;
+}
