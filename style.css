@@ -13,6 +13,10 @@ h2 {
   font-family: Helvetica, sans-serif;
 }
 
+#index {
+  list-style: none;
+}
+
 .italic {
   font-style: italic;
 }
