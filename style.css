@@ -57,3 +57,7 @@ h2 {
   margin-left: 10%;
   font-size: 1.1em;
 }
+
+ul.skills li:nth-of-type(odd) {
+  font-style: italic;
+}
