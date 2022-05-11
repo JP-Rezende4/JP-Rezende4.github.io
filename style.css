@@ -63,5 +63,10 @@ ul.skills li:nth-of-type(odd) {
 }
 
 a:hover {
+  color: white;
+  transition: 300ms;
+}
+
+a:active {
   text-decoration: underline;
 }
