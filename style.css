@@ -13,7 +13,7 @@ h2 {
   font-family: Helvetica, sans-serif;
 }
 
-#index {
+nav {
   margin-left: 10%;
 }
 
@@ -24,14 +24,6 @@ h2 {
 #joao {
   padding: 10px;
   background-color: #3A506B;
-}
-
-#footer {
-  margin-left: 10%;
-}
-
-.italic {
-  font-style: italic;
 }
 
 .bigger-font {
