@@ -4,6 +4,23 @@ body {
   font-family: Cambria, serif;
 }
 
+h1, nav.index {
+  margin-left: 10%;
+}
+
+nav ul {
+  padding: 0;
+  list-style: none;
+}
+
+nav.index ul li {
+  display: inline;
+}
+
+nav#social ul {
+  line-height: 40px;
+}
+
 a {
   color: #6FFFE9;
   text-decoration: none;
@@ -13,10 +30,6 @@ h2 {
   font-family: Helvetica, sans-serif;
 }
 
-nav {
-  margin-left: 10%;
-}
-
 #name {
   text-align: center;
 }
@@ -24,6 +37,15 @@ nav {
 #joao {
   padding: 10px;
   background-color: #3A506B;
+}
+
+#main-skills {
+  margin-left: 10%;
+}
+
+#other-skills {
+  margin-left: 10%;
+  font-size: 1.1em;
 }
 
 .bigger-font {
@@ -42,15 +64,6 @@ nav {
   vertical-align: middle;
   text-align: justify;
   font-size: 1.2em;
-}
-
-.main-skills {
-  margin-left: 10%;
-}
-
-.other-skills {
-  margin-left: 10%;
-  font-size: 1.1em;
 }
 
 ul.skills li:nth-of-type(odd) {
